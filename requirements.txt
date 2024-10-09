@@ -1,0 +1,6 @@
+pandas
+ollama
+transformers
+torch
+cohere
+streamlit
