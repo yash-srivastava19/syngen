@@ -4,3 +4,4 @@ transformers
 torch
 cohere
 streamlit
+python-dotenv

@@ -1,0 +1,5 @@
+rating, title, text, asin, parent_asin, user_id, timestamp, helpful_vote, verified_purchase, data, time
+4, Vitamin D3 and Calcium, supports bone health, B001A2N78Y, B001A2N78Y, AGDVWUH9V9S7P7F8T7OYK24M1YI, 2009-12-11 00:37:33, 1, True, 2009-12-11, 00:37
+5, Omega-3 Fatty Acids, reduces inflammation, B00012ND5G, B00012ND5G, AGDVFFLJWAQ3ULNNKF4LXID2RVSQ, 2009-12-11 00:37:33, 1, True, 2009-12-11, 00:37
+5, Green Tea Extract, improves energy levels, B00013Z0ZQ, B00013Z0ZQ, AG3BSKXHDGP6E3EGQD2SXCK6KFQQ, 2015-01-04 03:11:26, 0, True, 2015-01-04, 03:11
+

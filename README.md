@@ -10,6 +10,9 @@ For starters, we will try to generate sythetic reviews. There are 3 prompts base
 ## What factors we considered?
 Let's see. Will update later.
 
+- For HF models, we are sticking our analysis to models which are around 1B parameters, so that our implementation doesn't take too much space. This also gives an idea on sigal/noise ratio for small models.
+
+
 ## Metrics
 1. **Concept/Category Drift:** Without any additional context, can the LM understand what product category we are talking about, and whether or not it sticks to it.
 
