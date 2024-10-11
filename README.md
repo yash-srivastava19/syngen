@@ -97,7 +97,7 @@ streamlit run app.py
 - [X] What metrics we are going to look at, and how to present it well.
 - [X] Prompts for different metrics.
 - [X] CLI support, Secrets are not injected into the script.
-- [] Documentation and comments.
-- [] Webapp. 
+- [X] Documentation and comments.
+- [X] Webapp. 
 - [] metrics testing/analysis.
 - [] understand why things work that way, efficacies if you will.
