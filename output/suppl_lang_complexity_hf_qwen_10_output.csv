@@ -1,0 +1,10 @@
+rating, title, text, asin, parent_asin, user_id, timestamp, helpful_vote, verified_purchase, data, time
+4, B Complex in tablet form, "I was pleasantly surprised by how effective it is. It helped me feel energized throughout the day.", B00012ND5H, B00012ND5G, AGDVFFLJWAQ3ULNNKF4LXID2RVSQ, 2009-12-11 00:38:00, 1, True, 2009-12-11, 00:38
+5, Omega-3 Fish Oil Supplement, "The supplement has been incredibly beneficial for my heart health and overall wellness", B00013Z0ZS, B00013Z0ZQ, AHG2WKFD4LXPC46WWC6JMQGX52JA, 2015-09-27 19:16:00, 0, True, 2015-09-27, 19:16
+4, Probiotic Supplement, "I've experienced significant improvements in gut health since taking this supplement", B00012ND5F, B00012ND5G, AGDVFFLJWAQ3ULNNKF4LXID2RVSQ, 2009-12-11 00:39:00, 1, True, 2009-12-11, 00:39
+5, Multivitamin Tablets, "This multivitamin has been essential for maintaining good health", B00012ND5G, B00012ND5G, AGDVFFLJWAQ3ULNNKF4LXID2RVSQ, 2009-12-11 00:37:00, 1, True, 2009-12-11, 00:37
+5, Joint Health Supplement, "Taking this supplement has greatly improved my joint mobility and flexibility", B00013Z0ZQ, B00013Z0ZQ, AHG2WKFD4LXPC46WWC6JMQGX52JA, 2015-09-27 19:14:00, 0, True, 2015-09-27, 19:14
+5, Sleep Aid Supplement, "This supplement has been highly effective in helping me get better sleep", B00013Z0ZQ, B00013Z0ZQ, AHG2WKFD4LXPC46WWC6JMQGX52JA, 2015-09-27 19:13:00, 0, True, 2015-09-27, 19:13
+4, Vitamin D3 Supplementation, "Taking vitamin D3 has provided me with an excellent boost of energy and improved my mood", B00012ND5F, B00012ND5G, AGDVFFLJWAQ3ULNNKF4LXID2RVSQ, 2009-12-11 00:36:00, 1, True, 2009-12-11, 00:36
+5, Brain Boosting Supplement, "I found that this supplement significantly increased my cognitive function and mental clarity", B00013Z0ZQ, B00013Z0ZQ, AHG2WKFD4LXPC46WWC6JMQGX52JA, 2015-09-27 19:15:00, 0, True, 2015-09-27, 19:15
+5, Eye Health Supplement, "Taking this supplement has greatly improved my eye health and vision", B00013Z0ZQ, B00013Z0ZQ, AHG2WKFD4LXPC46WWC6JMQGX52JA, 2015-09-27 19:18:00, 0, True, 2015-09-2

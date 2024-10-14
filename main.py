@@ -86,10 +86,10 @@ if __name__ == "__main__":
         model_name = 'Qwen/Qwen2.5-1.5B-Instruct'
         print(f"------- Using {model_name} Model for now ---------")
         generator = pipeline('text-generation', model=model_name, trust_remote_code=True)
-        response = generator([{"role": "user", "content": prompt}], do_sample=True, max_new_tokens=700)
+        response = generator([{"role": "user", "content": prompt}], do_sample=True, max_new_tokens=1000)
         
         # Save stuff to a file.
-        with open(f"output/hf_Qwen_{args.num_samples}_output.csv", "w") as f:
+        with open(f"output/suppl_{args.prompt_type}_hf_qwen_{args.num_samples}_output.csv", "w") as f:
             print(response[0]['generated_text'][1]['content'], file=f)
         
         print(response[0]['generated_text'][1]['content'])
@@ -109,7 +109,7 @@ if __name__ == "__main__":
         )
 
         # Save stuff to a file.
-        with open(f"output/cohere_{model_name}_{args.num_samples}_output.csv", "w") as f:
+        with open(f"output/suppl_{args.prompt_type}_cohere_{model_name}_{args.num_samples}_output.csv", "w") as f:
             print(response.message.content[0].text, file=f)
 
         print(response.message.content[0].text)
@@ -124,7 +124,7 @@ if __name__ == "__main__":
         ])
 
         # Save stuff to a file.
-        with open(f"output/ollama_llama3.2_{args.num_samples}_output.csv", "w") as f:
+        with open(f"output/suppl_{args.prompt_type}_ollama_llama3.2_{args.num_samples}_output.csv", "w") as f:
             print(response['message']['content'], file=f)
 
         print(response['message']['content'])

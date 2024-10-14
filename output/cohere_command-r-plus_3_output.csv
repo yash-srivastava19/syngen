@@ -1,4 +1,0 @@
-rating, title, text, asin, parent_asin, user_id, timestamp, helpful_vote, verified_purchase, data, time
-5,Five Stars,Exactly what I needed,B000142Z7K,B000142Z7K,A2X3R4P56F2Q1X215D4Q3F54234,2013-05-12 15:46:11,2,True,2013-05-12,15:46
-4,Good product,Seems to be working well,B000145H2G,B000145H2G,A123X45Z678910111213141516,2018-07-09 08:23:45,1,False,2018-07-09,08:23
-3,It's okay, but not the best,Seems to be effective but I've had better,B000156Y7U,B000156Y7U,A345678901234567890123456,2022-02-21 22:17:05,0,True,2022-02-21,22:17

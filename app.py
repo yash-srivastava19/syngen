@@ -8,13 +8,13 @@ load_dotenv()
 
 ## Generate an app where we can generate synthetic dataset based on CSV data. Ability to adjust parameters for adjusting dialogue length, topic, diversity, and language m=complexity should also be there.
 st.title("Synthetic Data Generation App")
-st.write("This app generates synthetic data based on CSV data. You can adjust parameters for dialogue length, topic, diversity, and language complexity.")
+st.write("This app generates synthetic data of supplements review based on CSV data. You can adjust parameters for dialogue length, topic, diversity, and language complexity.")
 
-st.write("Upload a CSV file to get started.")
+st.write("Upload the supplements CSV file to get started.")
 uploaded_file = st.file_uploader("Choose a file")
 
 # Options to steer data generated(how do we use these params?)
-topic = st.text_input("Topic", "Health Supplements")
+topic = st.text_input("CSV File Topic", "Health Supplements")
 
 # Options to tweak the synthetic data generated
 num_options = st.slider("Number of synthetic data entries to generate", 1, 10, 5)

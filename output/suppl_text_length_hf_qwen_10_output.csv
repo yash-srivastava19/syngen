@@ -1,0 +1,13 @@
+Here are ten additional rows of synthetic data based on the format and content provided in your original dataset, including a dialogue-like context where appropriate:
+
+|rating| title| text| asin| parent_asin| user_id| timestamp| helpful_vote| verified_purchase| data| time|
+|---|---|---|---|---|---|---|---|---|---|---|
+|5| Great Product| This is an excellent supplement that provides all necessary vitamins.| B00013Z0ZQ | B00013Z0ZQ | AG3BSKXHDGP6E3EGQD2SXCK6KFQQ | 2015-01-04 03:11:26 | 0 | True | 2015-01-04, 03:11 |
+|4| Multi-Vitamin Kit| Comprehensive formula containing essential nutrients for overall health.| B00013Y2H8 | B00013Y2H8 | AG3BRU5VW8N3T3FQG2O6P663M9A | 2015-01-04 03:11:26 | 1 | False | 2015-01-04, 03:11 |
+|5| Superfood Blend| Rich in antioxidants and other beneficial compounds.| B00013Z0ZQ | B00013Z0ZQ | AG3BSKXHDGP6E3EGQD2SXCK6KFQQ | 2015-09-27 19:15:33 | 0 | True | 2015-09-27, 19:15 |
+|5| Omega-3 Fortified Supplement| High-quality omega-3 fatty acids for heart health.| B00013Z0ZQ | B00013Z0ZQ | AG3BSKXHDGP6E3EGQD2SXCK6KFQQ | 2015-09-27 19:15:33 | 0 | True | 2015-09-27, 19:15 |
+|5| Probiotic Support| Helps maintain gut flora balance and support immune function.| B00013Z0ZQ | B00013Z0ZQ | AG3BSKXHDGP6E3EGQD2SXCK6KFQQ | 2015-09-27 19:15:33 | 0 | True | 2015-09-27, 19:15 |
+|4| Joint Health Formula| Supports joint integrity and mobility.| B00013Z0ZQ | B00013Z0ZQ | AG3BSKXHDGP6E3EGQD2SXCK6KFQQ | 2015-09-27 19:15:33 | 1 | True | 2015-09-27, 19:15 |
+|5| Sleep Aid Supplement| Promotes relaxation and better sleep quality.| B00013Z0ZQ | B00013Z0ZQ | AG3BSKXHDGP6E3EGQD2SXCK6KFQQ | 2015-09-27 19:15:33 | 0 | True | 2015-09-27, 19:15 |
+|5| Detox Support Supplement| Helps remove toxins from the body and improve overall wellness.| B00013Z0ZQ | B00013Z0ZQ | AG3BSKXHDGP6E3EGQD2SXCK6KFQQ | 2015-09-27 19:15:33 | 0 | True | 2015-09-27, 19:15 |
+|5| Energy Boost Supplement| Enhances stamina and boosts energy levels throughout the day.| B00013Z0ZQ | B00013Z0ZQ | AG3BSKXHDGP6E3EGQD2SXCK6KFQQ | 2015-09-27 19:15:33 | 0

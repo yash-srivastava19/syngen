@@ -1,0 +1,11 @@
+rating,title,text,asin,parent_asin,user_id,timestamp,helpful_votes,verified_purchase,date,time
+4,"Easy to Swallow",I've been taking these for a while now and they're great. Easy to swallow and no aftertaste.,"B000142Z2M","B000142Z2M","A123456789EXAMPLE",2022-05-15 10:20:05,1,True,2022-05-15,10:20
+5,Excellent!,Love this supplement! I've noticed a big difference in my energy levels since taking it.,"B000157X3Y","B000157X3Y","A987654321EXAMPLE",2021-03-09 15:45:32,2,True,2021-03-09,15:45
+4,"Good Value",I feel like this was a good purchase for the price. I've had no issues with it so far.,"B000168Z4T","B000168Z4T","AEXAMPLE8675309",2020-11-30 08:17:14,0,True,2020-11-30,08:17
+5,Perfect!,Exactly what I needed. High quality and effective.,"B000179X5R","B000179X5R","A5555555555EXAMPLE",2019-07-22 21:33:55,3,True,2019-07-22,21:33
+4,"No Complaints",I've had no issues with this product and it seems to be working as intended.,"B000180Z6F","B000180Z6F","A1111111111EXAMPLE",2018-04-14 13:27:43,2,False,2018-04-14,13:27
+5,Love it!,I'm very happy with this purchase. I would definitely recommend it to others.,"B000191Y7G","B000191Y7G","A5555555550EXAMPLE",2017-12-05 09:58:21,1,True,2017-12-05,09:58
+4,"Seems Effective",I've been taking this for a few months and I think it's helping. I plan to continue taking it.,"B000102X8H","B000102X8H","A0000000009EXAMPLE",2016-08-29 17:14:37,0,True,2016-08-29,17:14
+5,Great results!,I'm very pleased with this supplement. I've noticed a big improvement in my overall health.,"B000113Y9J","B000113Y9J","AEXAMPLE00112233",2015-05-18 11:36:54,4,True,2015-05-18,11:36
+4,"No Aftertaste",I like that these don't leave any weird aftertaste like some other supplements I've tried.,"B000124Z0K","B000124Z0K","A4444444444EXAMPLE",2014-12-8 06:23:12,3,True,2014-12-08,06:23
+5,Highly recommend!,One of the best supplements I've used. Definitely worth the money.,"B000135X1L","B000135X1L","A9999999999EXAMPLE",2013-07-21 23:47:46,2,True,2013-07-21,23:47
